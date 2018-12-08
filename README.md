@@ -41,5 +41,5 @@ npm run deploy
 ```
 This will create a `gh-pages` branch and copy everything from `gatsby-page/public` there.
 
-The page should now be available at [andreaswilli.github.io/gatsby-gh-pages-tutorial](andreaswilli.github.io/gatsby-gh-pages-tutorial).
+The page should now be available at [andreaswilli.github.io/gatsby-gh-pages-tutorial](https://andreaswilli.github.io/gatsby-gh-pages-tutorial).
 > Note: It can take several minutes. If it doesn't work after waiting some minutes, check the configuration in repo settings.
